@@ -1,0 +1,4 @@
+sentence_transformers
+streamlit
+pinecone_client
+pypdf
